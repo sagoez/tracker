@@ -233,10 +233,6 @@ Time    Left Stream              Right Stream           Action
 - **Multiple rounds**: Automatically continues to next round
 - **Perfect for async systems**: Handles different timing/latency gracefully
 
-## Architecture
-
-Built with **Hexagonal Architecture** (Ports & Adapters) for flexibility and testability.
-
 ## HTML Report Output
 
 Generate beautiful, shareable HTML reports with `--report` (requires `--round-end`):
