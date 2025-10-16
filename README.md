@@ -1,6 +1,6 @@
 # State Tracker 🔄
 
-A powerful tool for tracking and comparing JSON state streams from dual WebSocket sources in real-time. Perfect for validating game engine migrations, API compatibility, and multi-source synchronization.
+A powerful tool for tracking and comparing JSON state streams from dual WebSocket sources in real-time. Perfect for validating API compatibility during migrations, and multi-source synchronization.
 
 ## Features
 
